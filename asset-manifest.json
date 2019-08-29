@@ -1,13 +1,13 @@
 {
-  "main.css": "/bn-react/static/css/main.d34f5cf7.chunk.css",
-  "main.js": "/bn-react/static/js/main.a3c44550.chunk.js",
-  "main.js.map": "/bn-react/static/js/main.a3c44550.chunk.js.map",
+  "main.css": "/bn-react/static/css/main.f4177286.chunk.css",
+  "main.js": "/bn-react/static/js/main.9c03b436.chunk.js",
+  "main.js.map": "/bn-react/static/js/main.9c03b436.chunk.js.map",
   "runtime~main.js": "/bn-react/static/js/runtime~main.822ea88e.js",
   "runtime~main.js.map": "/bn-react/static/js/runtime~main.822ea88e.js.map",
-  "static/js/2.75a52f51.chunk.js": "/bn-react/static/js/2.75a52f51.chunk.js",
-  "static/js/2.75a52f51.chunk.js.map": "/bn-react/static/js/2.75a52f51.chunk.js.map",
+  "static/js/2.e3083aef.chunk.js": "/bn-react/static/js/2.e3083aef.chunk.js",
+  "static/js/2.e3083aef.chunk.js.map": "/bn-react/static/js/2.e3083aef.chunk.js.map",
   "index.html": "/bn-react/index.html",
-  "precache-manifest.ce10015ac6751244a8c15b8fcdd59d1c.js": "/bn-react/precache-manifest.ce10015ac6751244a8c15b8fcdd59d1c.js",
+  "precache-manifest.fa21bde04230a1dc242cfe664e085812.js": "/bn-react/precache-manifest.fa21bde04230a1dc242cfe664e085812.js",
   "service-worker.js": "/bn-react/service-worker.js",
-  "static/css/main.d34f5cf7.chunk.css.map": "/bn-react/static/css/main.d34f5cf7.chunk.css.map"
+  "static/css/main.f4177286.chunk.css.map": "/bn-react/static/css/main.f4177286.chunk.css.map"
 }
