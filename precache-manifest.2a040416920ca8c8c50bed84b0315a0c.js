@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/bn-react/static/css/main.5ad256ca.chunk.css"
   },
   {
-    "revision": "c6c94fb6a7d27ccbabf87ecbd5930d8d",
+    "revision": "ad80796e8a891b25a9349b3c92b388d9",
     "url": "/bn-react/index.html"
   }
 ];
