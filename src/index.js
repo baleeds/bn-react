@@ -12,6 +12,10 @@ export const store = configureStore();
 
 const root = document.getElementById('root');
 
+const env = process.env.NODE_ENV;
+
+console.log(env, process.env.PUBLIC_URL);
+
 ReactDOM.render(
   <Provider store={store}>
     <App />
