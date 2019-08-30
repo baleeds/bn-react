@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.5ad256ca.chunk.css",
-  "main.js": "/static/js/main.3a72c175.chunk.js",
-  "main.js.map": "/static/js/main.3a72c175.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.8e237a30.chunk.js": "/static/js/2.8e237a30.chunk.js",
-  "static/js/2.8e237a30.chunk.js.map": "/static/js/2.8e237a30.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.35f2def5311b72a6e2adeec2d545f707.js": "/precache-manifest.35f2def5311b72a6e2adeec2d545f707.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.5ad256ca.chunk.css.map": "/static/css/main.5ad256ca.chunk.css.map"
+  "main.css": "/bn-react/static/css/main.5ad256ca.chunk.css",
+  "main.js": "/bn-react/static/js/main.33d629e1.chunk.js",
+  "main.js.map": "/bn-react/static/js/main.33d629e1.chunk.js.map",
+  "runtime~main.js": "/bn-react/static/js/runtime~main.822ea88e.js",
+  "runtime~main.js.map": "/bn-react/static/js/runtime~main.822ea88e.js.map",
+  "static/js/2.8e237a30.chunk.js": "/bn-react/static/js/2.8e237a30.chunk.js",
+  "static/js/2.8e237a30.chunk.js.map": "/bn-react/static/js/2.8e237a30.chunk.js.map",
+  "index.html": "/bn-react/index.html",
+  "precache-manifest.0d2df76cee91e98c05a24756cf89039e.js": "/bn-react/precache-manifest.0d2df76cee91e98c05a24756cf89039e.js",
+  "service-worker.js": "/bn-react/service-worker.js",
+  "static/css/main.5ad256ca.chunk.css.map": "/bn-react/static/css/main.5ad256ca.chunk.css.map"
 }
